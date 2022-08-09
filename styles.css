@@ -4,6 +4,9 @@ body {
 
 p {
 	color: white;
+	font-weight: 700;
+	padding: 10px;
+	margin: 0 auto;
 }
 
 .box {
@@ -11,5 +14,4 @@ p {
 	max-width: 100px;
 	margin: 50px;
 	padding: 20px;
-	border-radius: 10px;
 }
