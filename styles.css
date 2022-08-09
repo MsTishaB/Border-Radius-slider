@@ -2,10 +2,14 @@ body {
 	background-color: black;
 }
 
+p {
+	color: white;
+}
+
 .box {
 	background-color: green;
 	max-width: 100px;
 	margin: 50px;
 	padding: 20px;
-	border-radius: 10%;
+	border-radius: 10px;
 }
